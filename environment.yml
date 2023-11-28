@@ -22,7 +22,7 @@ dependencies:
         - matplotlib
         - mujoco-py<1.50.2,>=1.50.1
         - nose2
-        - git+https://github.com/plotly/plotly.py.git@2594076e29584ede2d09f2aa40a8a195b3f3fc66#egg=plotly
+        - plotly==1.9.7
         - psutil
         - pyprind
         - ray
